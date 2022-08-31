@@ -6,5 +6,5 @@
 align="right">
 
 <div align="right">
-<[eDesignLAB주소](https://emotiondesignlab.com/)>
+[eDesignLAB주소](https://emotiondesignlab.com/)
 </div>
