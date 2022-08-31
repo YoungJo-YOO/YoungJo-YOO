@@ -4,8 +4,7 @@
 
 |||
 |-----|----|
-|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungJo-YOO&show_icons=true&theme=radical)| ● eDesignLAB주소:<https://emotiondesignlab.com/>|
-||<img src="https://emotiondesignlabdotcom.files.wordpress.com/2015/11/edesign_logo_final_last_2.jpg?w=244"> |
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungJo-YOO&show_icons=true&theme=radical)| ● eDesignLAB주소:<https://emotiondesignlab.com/><img src="https://emotiondesignlabdotcom.files.wordpress.com/2015/11/edesign_logo_final_last_2.jpg?w=244">|
 
  
 
