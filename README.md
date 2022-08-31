@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient:185a9d,100:2FE4ED&height=170&section=header&text=YoungJo&fontSize=50&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient:C4A4F2,100:2FE4ED&height=170&section=header&text=YoungJo&fontSize=50&fontColor=FFFFFF)
 
 ![](https://emotiondesignlabdotcom.files.wordpress.com/2015/11/edesign_logo_final_last_2.jpg?w=244)
 
