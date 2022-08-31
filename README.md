@@ -9,5 +9,5 @@ align="right">
 <br/>
 <br/>
 <br/>
-                           * eDesignLAB주소: <https://emotiondesignlab.com/> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* eDesignLAB주소: <https://emotiondesignlab.com/> 
 
