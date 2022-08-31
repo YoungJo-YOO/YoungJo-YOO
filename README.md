@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:E040FB,100:2FE4ED&height=170&section=header&text=YoungJo&fontSize=50&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E040FB,100:2FE4ED&height=250&section=header&text=YoungJo&fontSize=70&fontColor=FFFFFF)
 
 |github| ● eDesignLAB 홈페이지|
 |-----|-----|
