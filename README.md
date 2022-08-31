@@ -1,5 +1,5 @@
 
-![header]([https://capsule-render.vercel.app/api?type=Round&color=gradient:20BDFF,100:2FE4ED&height=170&section=header&text=YoungJo&fontSize=50&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=Round&color=gradient:20BDFF,100:2FE4ED&height=170&section=header&text=YoungJo&fontSize=50&fontColor=FFFFFF)
 
 
 
